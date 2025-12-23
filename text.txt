@@ -1,5 +1,5 @@
 line 1
 line 2 (base change)
-line 3 (base change)
+line 3 (base change) (base change 2)
 line 4
 line 5
