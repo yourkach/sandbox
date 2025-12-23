@@ -1,5 +1,7 @@
 line 1
 line 2 (base change)
-line 3 (base change)
-line 4
-line 5
+line 3 (base change) (feature branch change)
+    line 3.1
+    line 3.2
+line 4 (feature branch change)
+line 5 (feature branch change)
